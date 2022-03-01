@@ -1,0 +1,56 @@
+h2 {
+    color: red;
+  }
+  h2 {
+    color: aqua;
+  }
+  h2 {
+    color: blue;
+  }
+  hr{
+    height: 10px;
+    background: black;
+  }
+  
+  .elephant{
+    height: 150px;
+  }
+  
+  #bird{
+    height: 200px;
+  }
+  .image_container{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  .red_border{
+    border: 1px solid red;
+  }
+  .red_border th {
+    border: 1px solid red;
+  }
+  .red_border td {
+    border: 1px solid aqua;
+  }
+  td, th,table {
+    border: 1px solid black;
+  }
+
+   /* Top Right Bottom Left  */
+  .outer_div{
+    background-color: aqua;
+    /* padding: 10px 15px 0px 0px; */
+    padding-left: 20px;
+  }
+
+  .inner_div{
+    background-color: blueviolet;
+  }
+
+
+
+ 
