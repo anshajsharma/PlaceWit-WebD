@@ -1,3 +1,11 @@
 .bg-light {
     background-color: #41D3BD!important;
 }
+
+.perfect-white-background{
+    width: 200px;
+    height: 200px;
+    background-color: #ffffff;
+    margin: 20px;
+
+}
